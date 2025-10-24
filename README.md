@@ -12,8 +12,11 @@ preentrega-ecommerce-react/
 │ │ └── Cart.jsx
 │ │
 │ ├── App.jsx
-│ ├── App.css ← estilos principales
+│ ├── App.css
 │ └── main.jsx
 │
+├── .gitignore
+├── index.html
 ├── package.json
-└── vite.config.js
+├── vite.config.js
+└── README.md
