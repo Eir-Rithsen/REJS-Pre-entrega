@@ -1,25 +1,19 @@
 # REJS-Pre-entrega
 preentrega-ecommerce-react/
-## package.json
-## README.md
-## public/
-### index.html
-## src/
-## index.js
-## App.jsx
-## api.js
-## auth/
-### AuthProvider.jsx
-### ProtectedRoute.jsx
-# components/
-### Navbar.jsx
-### Layout.jsx
-# pages/
-## Home.jsx
-## Products.jsx
-## ProductDetail.jsx
-## Cart.jsx
-## Login.jsx
-# hooks/
-## useLocalStorage.js
-# styles.css
+│
+├── public/
+│ └── index.html
+│
+├── src/
+│ ├── components/
+│ │ ├── Header.jsx
+│ │ ├── ProductList.jsx
+│ │ ├── ProductCard.jsx
+│ │ └── Cart.jsx
+│ │
+│ ├── App.jsx
+│ ├── App.css ← estilos principales
+│ └── main.jsx
+│
+├── package.json
+└── vite.config.js
